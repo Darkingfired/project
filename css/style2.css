@@ -1,0 +1,13 @@
+#word-display {
+        font-size: 24px;
+        margin: 16px 0;
+}
+
+#guess-input {
+        width: 32px;
+        margin-right: 8px;
+}
+
+#guess-button {
+        margin-left: 8px;
+}
